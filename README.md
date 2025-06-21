@@ -16,14 +16,8 @@ Each snake segment holds a number, so all operations have visible effects on the
 
 ---
 
-## 📷 Demo Preview
-
-> *(Add a GIF or image of gameplay here once available)*
-
----
-
 ## 🚀 How to Run
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/array-snake-game.git
+   git clone https://github.com/harshithc31/array-snake-game.git
